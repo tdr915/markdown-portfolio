@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- start course
+- update trainings
+- complete course
