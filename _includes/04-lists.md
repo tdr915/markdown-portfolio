@@ -1,0 +1,3 @@
+- start course
+- update trainings
+- complete course
